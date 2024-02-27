@@ -1,0 +1,6 @@
+{
+  "host": "https://adb-7238057763501014.14.azuredatabricks.net/",
+  "authType": "databricks-cli",
+  "databricksPath": "/Users/alexkwan/.vscode/extensions/databricks.databricks-1.2.7-darwin-arm64/bin/databricks",
+  "workspacePath": "/Users/irxumtenk@gmail.com/.ide/streaming_exemplar-545dfab6"
+}
